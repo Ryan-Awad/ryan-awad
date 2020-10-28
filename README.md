@@ -4,8 +4,6 @@
 
 ## Ryan Awad
 
-*"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
-
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
 ![](https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=FFD43B)
 ![](https://img.shields.io/badge/Javascript-323330?logo=javascript)
@@ -13,6 +11,8 @@
 ![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi)
 ![](https://img.shields.io/badge/HTML5-fff?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3)
+
+*"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
 I am a developper currently interested in machine learning, deep learning and space exploration. 
 
