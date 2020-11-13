@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3)
 ![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi)
 ![](https://img.shields.io/badge/Unity-000000?logo=Unity)
+<br><br>
+![](https://komarev.com/ghpvc/?username=ryan-awad)
 
 *"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
