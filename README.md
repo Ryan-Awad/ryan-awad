@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
 ![](https://img.shields.io/badge/SciKit-Learn-FF6F00?style=flat-square&logo=scikit-learn&logoColor=F7931E)
 ![](https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=FFD43B)
+![](https://img.shields.io/badge/NodeJS-3C873A?logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/Javascript-323330?logo=javascript)
 ![](https://img.shields.io/badge/C%23-650094?logo=C-Sharp)
 ![](https://img.shields.io/badge/HTML5-fff?logo=HTML5)
