@@ -30,8 +30,8 @@ Currently looking for potential internships.
 
 ## Contact me
 
-[![](https://img.shields.io/badge/-Ryan_Awad-D44638&logo=Mail.RU&logoColor=white&labelColor=c14438&style=for-the-badge)](mailto:ryanawad@yahoo.com)
-[![](https://img.shields.io/badge/-LinkedIn-0E76A8&logo=LinkedIn&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/ryanawad/)
-[![](https://img.shields.io/badge/-Kaggle-20beff&logo=Kaggle&logoColor=fff&style=for-the-badge)](https://www.kaggle.com/ryanawad)
-[![](https://img.shields.io/badge/-Devpost-003e54&logo=Devpost&logoColor=fff&style=for-the-badge)](https://devpost.com/ryan-awad)
-[![](https://img.shields.io/badge/-DM::OJ-c9c900&style=for-the-badge)](https://dmoj.ca/user/RyanAwad)
+[![](https://img.shields.io/badge/-Ryan_Awad-D44638?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:ryanawad@yahoo.com)
+[![](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/ryanawad/)
+[![](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=fff)](https://www.kaggle.com/ryanawad)
+[![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/ryan-awad)
+[![](https://img.shields.io/badge/-DM::OJ-c9c900?style=flat-square)](https://dmoj.ca/user/RyanAwad)
