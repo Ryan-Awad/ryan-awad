@@ -22,7 +22,7 @@
 
 I am a developper currently interested in machine learning, deep learning and space exploration. 
 
-I proficient in Python, HTML/CSS, Javascript, and C#, and several other languages. I've also used PHP, JSON, Unity, Raspberry Pi and various APIs.
+I am proficient in Python, HTML/CSS, Javascript, and C#, and several other languages. I've also used PHP, JSON, Unity, Raspberry Pi and various APIs.
 
 I'm always up for a challenge so don't hesitate to contact me!
 Currently looking for potential internships. 
