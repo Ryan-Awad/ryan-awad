@@ -6,6 +6,7 @@
 
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?&logo=TensorFlow&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/SciKit-Learn-FF6F00?&logo=scikit-learn&logoColor=F7931E&style=for-the-badge)
+![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi&style=for-the-badge)
 ![](https://img.shields.io/badge/Python-306998?&logo=Python&logoColor=FFD43B&style=for-the-badge)
 ![](https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Javascript-323330?logo=javascript&style=for-the-badge)
@@ -13,7 +14,6 @@
 ![](https://img.shields.io/badge/C%23-650094?logo=C-Sharp&style=for-the-badge)
 ![](https://img.shields.io/badge/HTML5-fff?logo=HTML5&style=for-the-badge)
 ![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=for-the-badge)
-![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi&style=for-the-badge)
 ![](https://img.shields.io/badge/Unity-000000?logo=Unity&style=for-the-badge)
 <br><br>
 ![](https://komarev.com/ghpvc/?username=ryan-awad)
