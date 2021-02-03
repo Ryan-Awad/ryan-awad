@@ -20,7 +20,7 @@
 
 *"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
-I am a developper currently interested in machine learning, deep learning and space exploration. 
+I am a developper currently interested in robotics, machine learning, deep learning and space exploration. 
 
 I am proficient in Python, HTML/CSS, Javascript, and C#, and several other languages. I've also used PHP, JSON, Unity, Raspberry Pi and various APIs.
 
