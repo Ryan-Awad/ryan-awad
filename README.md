@@ -25,7 +25,7 @@ I am a developper currently interested in robotics, machine learning, deep learn
 I am proficient in Python, NodeJS, HTML/CSS, Javascript, and C#, and several other languages. I've also used PHP, JSON, Unity, Raspberry Pi and various APIs.
 
 I'm always up for a challenge so don't hesitate to contact me!
-Currently looking for potential internships. 
+Currently looking for potential internships.  
 
 
 
