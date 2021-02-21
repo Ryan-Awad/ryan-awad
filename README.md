@@ -15,6 +15,9 @@
 ![](https://img.shields.io/badge/HTML5-fff?logo=HTML5&style=for-the-badge)
 ![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=for-the-badge)
 ![](https://img.shields.io/badge/Unity-000000?logo=Unity&style=for-the-badge)
+
+![](https://img.shields.io/badge/Linux-4d4d4d?logo=Linux&style=for-the-badge)
+![](https://img.shields.io/badge/Windows-0078D6?logo=Windows&style=for-the-badge)
 <br><br>
 ![](https://komarev.com/ghpvc/?username=ryan-awad)
 
