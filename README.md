@@ -38,6 +38,3 @@ Currently looking for potential internships.
 [![](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/ryanawad/)
 [![](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=fff)](https://www.kaggle.com/ryanawad)
 [![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/ryan-awad)
-[![](https://img.shields.io/badge/-LeetCode-242424?style=flat-square&logo=leetcode)](https://leetcode.com/Ryan-Awad/)
-[![](https://img.shields.io/badge/-BinarySearch-3b5870?style=flat-square)](https://binarysearch.com/@/RyanAwad)
-[![](https://img.shields.io/badge/-DM::OJ-c9c900?style=flat-square)](https://dmoj.ca/user/RyanAwad)
