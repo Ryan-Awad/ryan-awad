@@ -28,7 +28,7 @@
 
 *"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
-I am a developer and computer science enthusiast! 
+Hey there! My name is Ryan! I am a developer and computer science enthusiast! 
 
 I am proficient in Python, NodeJS, HTML/CSS/JS, C#, and several other programming languages. I have also done some work with Raspberry Pi, Discord.js and Discord.py, Unity, PHP, and various APIs.
 
