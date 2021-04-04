@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan-awad&show_icons=true&hide_border=true&theme=dracula">
 </a>
 
-## Ryan Awad
+# Ryan Awad
 
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?&logo=TensorFlow&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/SciKit-Learn-FF6F00?&logo=scikit-learn&logoColor=F7931E&style=for-the-badge)
