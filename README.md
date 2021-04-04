@@ -28,9 +28,9 @@
 
 *"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
-I am a developper and computer science enthusiast! 
+I am a developer and computer science enthusiast! 
 
-I am proficient in Python, NodeJS, HTML/CSS/JS, C#, and several other programming languages. I've also done some work with Raspberry Pi, Discord.js and Discord.py, Unity, PHP, and various APIs.
+I am proficient in Python, NodeJS, HTML/CSS/JS, C#, and several other programming languages. I have also done some work with Raspberry Pi, Discord.js and Discord.py, Unity, PHP, and various APIs.
 
 I'm always up for a challenge so don't hesitate to contact me!
 Currently looking for potential internships.  
