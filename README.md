@@ -29,7 +29,7 @@
 
 I am a developper currently interested in robotics, machine learning, deep learning and space exploration. 
 
-I am proficient in Python, NodeJS, HTML/CSS/JS, and C#, and several other languages. I've also done some work with Raspberry Pi, Discord.js and Discord.py, Unity, PHP, and various APIs.
+I am proficient in Python, NodeJS, HTML/CSS/JS, C#, and several other languages. I've also done some work with Raspberry Pi, Discord.js and Discord.py, Unity, PHP, and various APIs.
 
 I'm always up for a challenge so don't hesitate to contact me!
 Currently looking for potential internships.  
