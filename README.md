@@ -21,6 +21,7 @@
 
 ### Linux Distros I've Worked With:<br>
 ![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=for-the-badge&logoColor=FFF)
+![](https://img.shields.io/badge/Debian-A81D33?logo=debian&style=for-the-badge&logoColor=FFF)
 
 <br>
 
