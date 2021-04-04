@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Linux-4d4d4d?logo=Linux&style=for-the-badge)
 ![](https://img.shields.io/badge/Windows-0078D6?logo=Windows&style=for-the-badge)
 
-### Linux Distros I've Worked With:<br>
+### Linux Distributions I've Worked With:<br>
 ![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=for-the-badge&logoColor=FFF)
 ![](https://img.shields.io/badge/Debian-A81D33?logo=debian&style=for-the-badge&logoColor=FFF)
 
