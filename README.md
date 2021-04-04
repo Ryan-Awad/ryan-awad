@@ -33,7 +33,7 @@ Hey there! My name is Ryan! I am a developer and computer science enthusiast who
 
 I am proficient in Python, NodeJS, HTML/CSS/JS, C#, and several other programming languages. I have also done some work with Raspberry Pi, Discord.js and Discord.py, Unity, PHP, and various APIs.
 
-I'm always up for a challenge so do not hesitate to contact me!
+I am always up for a challenge so do not hesitate to contact me!
 
 
 
