@@ -18,6 +18,10 @@
 
 ![](https://img.shields.io/badge/Linux-4d4d4d?logo=Linux&style=for-the-badge)
 ![](https://img.shields.io/badge/Windows-0078D6?logo=Windows&style=for-the-badge)
+
+### My Personal Favorite Linux Distro:<br>
+![](https://img.shields.io/badge/Pop!_OS-4d4d4d?logo=pop_os&style=for-the-badge)
+
 <br><br>
 ![](https://komarev.com/ghpvc/?username=ryan-awad)
 
