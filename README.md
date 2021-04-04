@@ -22,7 +22,6 @@
 ### Linux Distros I've Worked With:<br>
 ![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=for-the-badge&logoColor=FFF)
 
-<br><br>
 ![](https://komarev.com/ghpvc/?username=ryan-awad)
 
 *"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
