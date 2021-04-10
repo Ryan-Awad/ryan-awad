@@ -1,7 +1,7 @@
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan-awad&show_icons=true&hide_border=true&theme=dracula">
 </a>
-
+ 
 # Ryan Awad
 
 ![](https://img.shields.io/badge/Python-306998?&logo=Python&logoColor=FFD43B&style=for-the-badge)
