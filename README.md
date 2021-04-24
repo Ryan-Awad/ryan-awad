@@ -4,6 +4,9 @@
  
 # Ryan Awad
 
+*"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
+<br><br>
+
 ![](https://img.shields.io/badge/Python-306998?&logo=Python&logoColor=FFD43B)
 ![](https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/HTML5-fff?logo=HTML5)
@@ -27,8 +30,6 @@
 ![](https://komarev.com/ghpvc/?username=ryan-awad)
 
 ![](https://activity-graph.herokuapp.com/graph?username=ryan-awad&theme=react-dark)
-
-*"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
 Hey there! My name is Ryan! I am a developer and computer science enthusiast who is eager to learn new things! 
 
