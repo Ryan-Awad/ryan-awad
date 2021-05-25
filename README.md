@@ -20,6 +20,7 @@
 
 ### Linux Distributions I've Worked With:<br>
 ![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=for-the-badge&logoColor=FFF)
+![](https://img.shields.io/badge/Pop%21_OS-48B9C7?logo=pop_os&style=for-the-badge&logoColor=FFF)
 
 <br>
 
