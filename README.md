@@ -4,27 +4,30 @@
  
 # Ryan Awad
 
-![](https://img.shields.io/badge/Python-306998?&logo=Python&logoColor=FFD43B&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/HTML5-fff?logo=HTML5&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/Javascript-323330?logo=javascript&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/C%23-650094?logo=C-Sharp&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?&logo=TensorFlow&logoColor=fff&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/SciKit-Learn-FF6F00?&logo=scikit-learn&logoColor=F7931E&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/Unity-000000?logo=Unity&style=for-the-badge&style=flat-square)
-
-![](https://img.shields.io/badge/Linux-4d4d4d?logo=Linux&style=for-the-badge&style=flat-square)
-![](https://img.shields.io/badge/Windows-0078D6?logo=Windows&style=for-the-badge&style=flat-square)
+<p float='left'>
+ <img src='https://img.shields.io/badge/Python-306998?logo=Python&logoColor=FFD43B&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/HTML5-fff?logo=HTML5&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/Javascript-323330?logo=javascript&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/C%23-650094?logo=C-Sharp&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/TensorFlow-FF6F00?&logo=TensorFlow&logoColor=fff&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/SciKit-Learn-FF6F00?&logo=scikit-learn&logoColor=F7931E&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/Unity-000000?logo=Unity&style=flat-square' height=25/>
+<br><br>
+ <img src='https://img.shields.io/badge/Linux-4d4d4d?logo=Linux&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/Windows-0078D6?logo=Windows&style=flat-square' height=25/>
+</p>
 
 ### Linux Distributions I've Worked With:<br>
-![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=for-the-badge&logoColor=FFF&style=flat-square)
-![](https://img.shields.io/badge/Pop%21_OS-48B9C7?logo=pop_os&style=for-the-badge&logoColor=FFF&style=flat-square)
+<p float='left'>
+ <img src='https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=FFF&style=flat-square' height=25/>
+ <img src='https://img.shields.io/badge/Pop%21_OS-48B9C7?logo=pop_os&logoColor=FFF&style=flat-square' height=25/>
+</p>
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=ryan-awad)
+<img src='https://komarev.com/ghpvc/?username=ryan-awad' height=25/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ryan-awad&theme=react-dark)
 
@@ -40,7 +43,7 @@ I am always up for a challenge so do not hesitate to contact me!
 
 ## Contact me
 
-[![](https://img.shields.io/badge/-Email-D44638?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:ryanawad@yahoo.com)
+[![](https://img.shields.io/badge/-Email-D44638?logo=Mail.RU&logoColor=white&labelColor=D44638)](mailto:ryanawad@yahoo.com)
 [![](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/ryanawad/)
 [![](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=fff)](https://www.kaggle.com/ryanawad)
 [![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/ryan-awad)
