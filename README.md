@@ -47,4 +47,5 @@ I am always up for a challenge so do not hesitate to contact me!
 [![](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/ryanawad/)
 [![](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=fff)](https://www.kaggle.com/ryanawad)
 [![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/ryan-awad)
+[![](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/RyanAwad)
 [![](https://img.shields.io/badge/-DM::OJ-ffde05?style=flat-square)](https://dmoj.ca/user/RyanAwad)
