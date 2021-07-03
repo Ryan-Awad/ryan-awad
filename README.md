@@ -29,8 +29,6 @@
 <br>
 <img src='https://komarev.com/ghpvc/?username=ryan-awad' height=22/>
 
-![](https://activity-graph.herokuapp.com/graph?username=ryan-awad&theme=react-dark)
-
 *"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
 Hey there! My name is Ryan! I am a developer and computer science enthusiast who is eager to learn new things! 
