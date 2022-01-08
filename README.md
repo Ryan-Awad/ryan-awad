@@ -28,6 +28,7 @@
 <br><br>
  <img src='https://img.shields.io/badge/Linux-4d4d4d?logo=Linux' height=22/>
  <img src='https://img.shields.io/badge/Windows-0078D6?logo=Windows' height=22/>
+ <img src='https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=fff' height=22/>
 </p>
 
 ### Linux Distributions I've Worked With:<br>
