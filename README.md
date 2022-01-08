@@ -14,6 +14,8 @@
  
   <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff' height=22/>
    <img src='https://img.shields.io/badge/Firebase-ECEFF1?logo=Firebase&logoColor=FFA000' height=22/>
+   <img src='https://img.shields.io/badge/Figma-fff?logo=Figma&logoColor=F24E1E' height=22/>
+ 
  <img src='https://img.shields.io/badge/HTML5-fff?logo=HTML5' height=22/>
  <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3' height=22/>
  <img src='https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=fff' height=22/>
