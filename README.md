@@ -45,7 +45,7 @@
 
 *"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
-Hey there! My name is Ryan! I am a developer, computer science/engineering and pentesting enthusiast who is eager to learn new things! 
+Hey there! My name is Ryan! I am a developer, computer science/engineering who is eager to learn new things! 
 
 I am always up for a challenge so do not hesitate to contact me!
 
