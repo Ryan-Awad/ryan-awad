@@ -45,7 +45,7 @@
 
 *"If something is important enough, even if the odds are stacked against you, you should still do it" — Elon Musk*
 
-Hey there! My name is Ryan! I am a aspiring penetration tester and cybersecurity researcher.
+Hey there! My name is Ryan! I am an aspiring penetration tester and cybersecurity researcher.
 
 I am always eager to learn new things, so do not hesitate to contact me!
 
