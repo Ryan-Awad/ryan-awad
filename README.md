@@ -9,10 +9,10 @@
   <img src='https://img.shields.io/badge/Javascript-323330?logo=javascript' height=22/>
  <img src='https://img.shields.io/badge/React-20232a?logo=React&logoColor=61DAFB' height=22/>
    <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff' height=22/>
- 
+  <img src='https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff' height=22/>
   <img src='https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=fff' height=22/>
- <img src='https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff' height=22/>
  
+ <img src='https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=FFF' height=22/>
    <img src='https://img.shields.io/badge/Firebase-ECEFF1?logo=Firebase&logoColor=FFA000' height=22/>
    <img src='https://img.shields.io/badge/Figma-fff?logo=Figma&logoColor=F24E1E' height=22/>
  
