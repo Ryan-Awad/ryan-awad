@@ -92,6 +92,7 @@
 - 🤓 Currently nerding out about distributed-computing and cloud-computing 🚀. 
 - 🌱 Previously completed two internships @ Trend Micro, where my passion for distributed-computing began! 😊
 - I will talk your ears off about Kubernetes and containerization at any social gathering. I'm not joking.
+- I love rock climbing 🧗 and Muay Thai 👊!
 
 ## 🔗 Reach out!
 
