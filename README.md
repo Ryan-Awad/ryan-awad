@@ -4,6 +4,7 @@
 
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<link rel="stylesheet" href="./styles/index.css">
 
 # Hey, I'm Ryan Awad!
  
@@ -16,16 +17,7 @@
 - I will talk your ears off about Kubernetes and containerization at any social gathering. I'm not joking.
 
 
-
 ## 🧠 Skills
-
-<style>
-  .skill {
-    float: left;
-    width: 50px;
-    padding-right: 5px;
-  }
-</style>
 
 ### Languages
 
