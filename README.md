@@ -2,9 +2,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan-awad&show_icons=true&hide_border=true&theme=dracula">
 </a>-->
 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<link rel="stylesheet" href="./styles/index.css">
 
 # Hey, I'm Ryan Awad!
  
@@ -19,46 +16,48 @@
 
 ## 🧠 Skills
 
+Here's your HTML with the CSS applied inline to each skill individually:
+
 ### Languages
 
 <div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" style="width: 90%;" />
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   </div>
 </div><br><br><br><br>
@@ -66,95 +65,95 @@
 ### Libraries & Frameworks
 
 <div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="./images/express_logo.svg" height="50"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="./images/flask-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
   </div>
-    <div class="skill">
+    <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
   </div>
 </div><br><br>
 
 ### Cloud/Distributed Computing
 <div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://falco.org/img/brand/falco-icon-color.svg" width="85%"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Kubernetes-Service.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg"/>
   </div>
-  <div class="skill">
-    <img src="  https://icon.icepanel.io/AWS/svg/Database/RDS.svg"/>
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
+    <img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/Analytics/Kinesis.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
   </div>
 </div><br><br><br><br><br>
@@ -163,51 +162,49 @@
 
 ### Tools
 <div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="./images/Pop_OS-Logo-nobg.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>
   </div> 
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg"/>
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
   </div>
-  <div class="skill">
+  <div class="skill" style="float: left; width: 50px; padding-right: 5px;">
     <img src="./images/latex-original.svg"/>
   </div>
-</div>
-          
-          
+</div>  
 
 <!--
 <p float='left'>
