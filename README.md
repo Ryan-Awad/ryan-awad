@@ -38,7 +38,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="width: 50px; padding-right: 5px;" />
-  <img src="./images/express_logo.svg" style="width: 50px; padding-right: 5px; height: 50;" />
+  <img src="./images/express_logo.svg" style="width: 50px; padding-right: 5px; height: 50px;" />
   <img src="./images/flask-original.svg" style="width: 50px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 50px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="width: 50px; padding-right: 5px;" />
@@ -56,7 +56,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="width: 50px; padding-right: 5px;" />
-  <img src="https://falco.org/img/brand/falco-icon-color.svg" style="width: 42.5px; padding-right: 5px;" />
+  <img src="https://falco.org/img/brand/falco-icon-color.svg" style="width: 40px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width: 50px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" style="width: 50px; padding-right: 5px;" />
   <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" style="width: 50px; padding-right: 5px;" />
