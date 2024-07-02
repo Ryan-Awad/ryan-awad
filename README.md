@@ -5,6 +5,8 @@
 
 # Hey, I'm Ryan Awad!
 
+![Ryan Awad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-awad&count_private=true&show_icons=true&show=prs_merged&rank_icon=percentile&theme=synthwave)
+
 ## 🚀 Skills
 
 ### Languages
@@ -18,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width: 30px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 30px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 30px; padding-right: 5px;" />
-  <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" style="width: 45px; padding-right: 5px;" />
+  <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" style="width: 30px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 30px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 30px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="width: 30px; padding-right: 5px;" />
