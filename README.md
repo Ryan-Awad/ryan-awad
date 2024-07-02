@@ -4,17 +4,8 @@
 
 
 # Hey, I'm Ryan Awad!
- 
-## ✨ About Me
 
-- 😄 Started my journey in tech when I was 14. I fell in love with programming and couldn't get away from my IDE!
-- 🤝 I am the Founder of The University of Ottawa's Cybersecurity Club! 🔒
-- 🤓 Currently nerding out about distributed-computing and cloud-computing 🚀. 
-- 🌱 Previously completed two internships @ Trend Micro, where my passion for distributed-computing began! 😊
-- I will talk your ears off about Kubernetes and containerization at any social gathering. I'm not joking.
-
-
-## 🧠 Skills
+## 🚀 Skills
 
 ### Languages
 
@@ -92,54 +83,22 @@
   <img src="./images/latex-original.svg" style="width: 50px; padding-right: 5px;" />
 </div>
 
+## ✨ About Me
+
+- 😄 Started my journey in tech when I was 14. I fell in love with programming and couldn't get away from my IDE!
+- 🤝 I am the Founder of The University of Ottawa's Cybersecurity Club! 🔒
+- 🤓 Currently nerding out about distributed-computing and cloud-computing 🚀. 
+- 🌱 Previously completed two internships @ Trend Micro, where my passion for distributed-computing began! 😊
+- I will talk your ears off about Kubernetes and containerization at any social gathering. I'm not joking.
+
+## 🔗 Reach out!
+
+<a href="https://linkedin.com/in/ryanawad" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50px" /></a>
+<a href="https://x.com/ryanawad1337" target="blank"><img src="./images/x-social-media-logo-icon.svg" width="50px" /></a>
+<a href="https://www.kaggle.com/ryanawad" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="50px" /></a>
+
+
 <!--
-<p float='left'>
- <img src='https://img.shields.io/badge/Python-306998?logo=Python&logoColor=FFD43B' height=22/>
-  <img src='https://img.shields.io/badge/Javascript-323330?logo=javascript' height=22/>
- <img src='https://img.shields.io/badge/React-20232a?logo=React&logoColor=61DAFB' height=22/>
-   <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff' height=22/>
-  <img src='https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff' height=22/>
-  <img src='https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=fff' height=22/>
- 
- <img src='https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=FFF' height=22/>
-   <img src='https://img.shields.io/badge/Firebase-ECEFF1?logo=Firebase&logoColor=FFA000' height=22/>
-   <img src='https://img.shields.io/badge/Figma-fff?logo=Figma&logoColor=F24E1E' height=22/>
- 
- <img src='https://img.shields.io/badge/HTML5-fff?logo=HTML5' height=22/>
- <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3' height=22/>
- <img src='https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=fff' height=22/>
- <img src='https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff' height=22/>
- <img src='https://img.shields.io/badge/C%23-650094?logo=C-Sharp' height=22/>
- <img src='https://img.shields.io/badge/TensorFlow-FF6F00?&logo=TensorFlow&logoColor=fff' height=22/>
- <img src='https://img.shields.io/badge/SciKit-Learn-FF6F00?&logo=scikit-learn&logoColor=F7931E' height=22/>
- <img src='https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi' height=22/>
- <img src='https://img.shields.io/badge/Unity-000000?logo=Unity' height=22/>
-<br><br>
- <img src='https://img.shields.io/badge/Linux-4d4d4d?logo=Linux' height=22/>
- <img src='https://img.shields.io/badge/Windows-0078D6?logo=Windows' height=22/>
- <img src='https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=fff' height=22/>
-</p>
-
-### Linux Distributions I've Worked With:<br>
-<p float='left'>
- <img src='https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=FFF' height=22/>
- <img src='https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=FFF' height=22/>
- <img src='https://img.shields.io/badge/Kali Linux-557C94?logo=kali-linux&logoColor=FFF' height=22/>
- <img src='https://img.shields.io/badge/Pop%21_OS-48B9C7?logo=pop_os&logoColor=FFF' height=22/>
- <img src='https://img.shields.io/badge/Raspbian-A22846?logo=raspberry-pi&logoColor=FFF' height=22/>
-</p>
-
-<br>
-<img src='https://komarev.com/ghpvc/?username=ryan-awad' height=22/>
-
-Hey there! My name is Ryan! I am an aspiring penetration tester and cybersecurity researcher.
-
-I am always eager to learn new things, so do not hesitate to contact me!
-
-
-
-## Find me on
-
 [![](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/ryanawad/)
 [![](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=fff)](https://www.kaggle.com/ryanawad)
 [![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/ryan-awad)
