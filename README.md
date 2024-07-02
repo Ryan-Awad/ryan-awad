@@ -31,7 +31,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="width: 40px; padding-right: 5px;" />
-  <img src="./images/express_logo.svg" style="width: 40px; padding-right: 5px; height: 50px;" />
+  <img src="./images/express_logo.svg" style="width: 40px; padding-right: 5px; height: 40px;" />
   <img src="./images/flask-original.svg" style="width: 40px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 40px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="width: 40px; padding-right: 5px;" />
