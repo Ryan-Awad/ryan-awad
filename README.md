@@ -5,7 +5,7 @@
 
 # Hey, I'm Ryan Awad!
 
-![Ryan Awad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-awad&count_private=true&show_icons=true&show=prs_merged&rank_icon=percentile&theme=synthwave)
+<!--![Ryan Awad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-awad&count_private=true&show_icons=true&show=prs_merged&rank_icon=percentile&theme=synthwave)-->
 
 ## 🚀 Skills
 
