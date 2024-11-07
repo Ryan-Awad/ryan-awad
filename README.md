@@ -49,6 +49,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="width: 40px; padding-right: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" style="width: 40px; padding-right: 5px;" />
   <img src="https://falco.org/img/brand/falco-icon-color.svg" style="width: 40px; padding-right: 5px;" />
   <img src="./images/amazonwebservices-original-wordmark.svg" style="width: 40px; padding-right: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" style="width: 40px; padding-right: 5px;" />
