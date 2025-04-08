@@ -90,15 +90,13 @@
 
 - 😄 Started my journey in tech when I was 14. I fell in love with programming and couldn't get away from my IDE!
 - 🤝 I am the Founder of The University of Ottawa's Cybersecurity Club! 🔒
-- 🤓 Currently nerding out about distributed-computing and cloud-computing 🚀. 
-- 🌱 Previously completed two internships @ Trend Micro, where my passion for distributed-computing began! 😊
+- 🌱 Previously completed two internships @ Trend Micro 💻
 - I will talk your ears off about Kubernetes and containerization at any social gathering. I'm not joking.
-- I love rock climbing 🧗 and Muay Thai 👊!
+- I love rock climbing 🧗 and Muay Thai 🥊!
 
 ## 🔗 Reach out!
 
 <a href="https://linkedin.com/in/ryanawad" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50px" /></a>
-<a href="https://x.com/ryanawad1337" target="_blank"><img src="./images/x-social-media-logo-icon.svg" width="50px" /></a>
 <a href="https://www.kaggle.com/ryanawad" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="50px" /></a>
 
 
